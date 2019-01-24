@@ -1,0 +1,12 @@
+.navbar{
+    background:rgb(124, 123, 119);
+}
+
+.navbar a {
+    color: #fff;
+    /* font-weight: bold; */
+}
+
+img{
+    height: 40px;
+}
